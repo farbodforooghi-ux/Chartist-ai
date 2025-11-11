@@ -1,5 +1,4 @@
 # Chartist-ai
-# Chartist-ai
 
 Chartist-ai is a production Telegram bot that delivers short technical and news-based analyses for major FX pairs in English and Farsi, built originally for a forex broker community.
 
